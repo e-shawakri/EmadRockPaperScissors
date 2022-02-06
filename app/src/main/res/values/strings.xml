@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmadRockPaperScissors</string>
+    <string name="start_playing">Start Playing</string>
+    <string name="title_activity_play_ground">PlayGroundActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="rockImage">rockImage</string>
+    <string name="paperImage">paperImage</string>
+    <string name="scissorImage">scissorImage</string>
+    <string name="computer">Computer</string>
+    <string name="initial_score">0</string>
+    <string name="me">Me</string>
+</resources>
